@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Zain. I am currently working as a research student with a focus on time series forecasting using statistical and deep learning techqniques.
+
 <!--
 **zainahmedsharif/zainahmedsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
