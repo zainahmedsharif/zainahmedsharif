@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi!!
 
-I am Zain. I am researcher with a focus on time series forecasting using statistical and deep learning techqniques.
+Zain Here. I am researcher with a focus on time series forecasting using statistical and deep learning techqniques.
 
 <!--
 **zainahmedsharif/zainahmedsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
