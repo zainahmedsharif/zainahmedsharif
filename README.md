@@ -1,6 +1,6 @@
 ## Hi!!
 
-Zain Here. I am researcher with a focus on electric load forecasting with particular interest on statistical and deep learning techqniques.
+Zain Here. I am researcher with a focus on electric load forecasting with particular interest in statistical and deep learning techqniques.
 
 <!--
 **zainahmedsharif/zainahmedsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
