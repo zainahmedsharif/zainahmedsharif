@@ -1,4 +1,4 @@
-👋 Hi, I’m Zain Ahmed
+👋 Hi, I’m Zain
 I’m an AI and Machine Learning Engineer with expertise in NLP, time-series forecasting, and general ML applications. My work includes publishing 2 research papers on advanced forecasting models and developing AI-driven solutions for text summarization and automation.
 
 <!--
