@@ -1,5 +1,5 @@
 👋 Hi, I’m Zain
-I’m an AI and Machine Learning Engineer with expertise in NLP, time-series forecasting, and general ML applications. My work includes publishing 2 research papers on advanced forecasting models and developing AI-driven solutions for text summarization and automation.
+I’m an AI and Machine Learning Engineer with expertise in NLP, time-series forecasting, and general ML applications. My work includes publishing 2 research papers on advanced forecasting models for multi-energy systems (MES) and Single Energy Systems (SES).
 
 <!--
 **zainahmedsharif/zainahmedsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
